@@ -1,0 +1,20 @@
+C:\Users\NsGnc\AppData\Local\Temporary Projects\Send Email\bin\Debug\Send Email.exe
+C:\Users\NsGnc\AppData\Local\Temporary Projects\Send Email\bin\Debug\Send Email.pdb
+C:\Users\NsGnc\AppData\Local\Temporary Projects\Send Email\bin\Debug\Send Email.xml
+C:\Users\NsGnc\AppData\Local\Temporary Projects\Send Email\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NsGnc\AppData\Local\Temporary Projects\Send Email\obj\Debug\Send_Email.Form1.resources
+C:\Users\NsGnc\AppData\Local\Temporary Projects\Send Email\obj\Debug\Send_Email.Resources.resources
+C:\Users\NsGnc\AppData\Local\Temporary Projects\Send Email\obj\Debug\Send Email.vbproj.GenerateResource.Cache
+C:\Users\NsGnc\AppData\Local\Temporary Projects\Send Email\obj\Debug\Send Email.exe
+C:\Users\NsGnc\AppData\Local\Temporary Projects\Send Email\obj\Debug\Send Email.xml
+C:\Users\NsGnc\AppData\Local\Temporary Projects\Send Email\obj\Debug\Send Email.pdb
+D:\DotNET\Send Email\Send Email\obj\Debug\Send Email.exe
+D:\DotNET\Send Email\Send Email\obj\Debug\Send Email.xml
+D:\DotNET\Send Email\Send Email\obj\Debug\Send Email.pdb
+D:\DotNET\Send Email\Send Email\bin\Debug\Send Email.exe
+D:\DotNET\Send Email\Send Email\bin\Debug\Send Email.pdb
+D:\DotNET\Send Email\Send Email\bin\Debug\Send Email.xml
+D:\DotNET\Send Email\Send Email\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNET\Send Email\Send Email\obj\Debug\Send_Email.Form1.resources
+D:\DotNET\Send Email\Send Email\obj\Debug\Send_Email.Resources.resources
+D:\DotNET\Send Email\Send Email\obj\Debug\Send Email.vbproj.GenerateResource.Cache
